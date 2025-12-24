@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name 百度网盘限速解除1
 // @namespace https://raw.githubusercontent.com/u2222223/download/main/baidu_lingquan.js
-// @version 1.0.0
+// @version 1.1.0
 // @description 利用了百度网盘极速下载券，实现极速下载，每天最多可领2张5分钟券
 // @icon https://www.baidu.com/favicon.ico
 // @match *://pan.baidu.com/*
