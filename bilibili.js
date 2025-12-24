@@ -1,17 +1,18 @@
 // ==UserScript==
-// @name         youtube视频下载
-// @namespace    https://raw.githubusercontent.com/u2222223/download/main/youtube.js
-// @version      1.1.0
-// @description  一键下载youtube视频：支持4K/1080P/720P多画质
-// @icon         https://www.youtube.com/favicon.ico
-// @match        *://*.youtube.com/*
-// @match        *://youtube.com/*
+// @name         bilibili视频下载
+// @namespace    https://raw.githubusercontent.com/u2222223/download/main/bilibili.js
+// @version      1.0.0
+// @description  一键下载bilibili视频：支持4K/1080P/720P多画质
+// @icon         https://www.bilibili.com/favicon.ico
+// @match        *://*.bilibili.com/*
+// @match        *://bilibili.com/*
 // @match        *://dajiaoniu.site/*
 // @author       大角牛
 // @supportURL   https://github.com/u2222223/download/issues
 // @license      MIT
-// @connect      youtube.com
-// @connect      youtube.com
+// @connect      bilibili.com
+// @connect      bilivideo.com
+// @connect      bilivideo.cn
 // @grant        GM_addElement
 // @grant        GM_addStyle
 // @grant        GM_addValueChangeListener
